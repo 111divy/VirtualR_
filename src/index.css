@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Poppins:ital,wght@0,400;1,700&family=Roboto:ital,wght@1,300&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: "poppins", sans-serif;
+  color-scheme: dark;
+}
